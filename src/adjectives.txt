@@ -1,7 +1,6 @@
 abaft
 abandoned
 abased
-abashed
 abasic
 abbatial
 abdicable
@@ -179,7 +178,6 @@ alien
 alive
 alkalic
 alkaline
-alkalisable
 alkalizable
 alkaloidal
 alkylic
@@ -352,7 +350,6 @@ antimoralistic
 antimorality
 antimystical
 antinational
-antinationalisation
 antinationalistic
 antinatural
 antinaturalistic
@@ -3352,7 +3349,6 @@ freudian
 friended
 friendless
 friendly
-friggatriskaidekaphobic
 frightenable
 frightened
 frightening
@@ -3843,7 +3839,6 @@ hexaemeric
 hexagonal
 hexagrammoid
 hexahedral
-hexakosioihexekontahexaphobic
 hexametral
 hexametric
 hexametrical
@@ -5608,8 +5603,6 @@ paranormal
 parapsychological
 parasitic
 parasiticidal
-paraskavedekatriaphobic
-paraskavidekatriaphobic
 parenthetic
 parenthetical
 parisyllabic
@@ -6696,15 +6689,6 @@ scrapable
 scratchy
 scrawny
 screaming
-scribblenautable
-scribblenautible
-scribblenautic
-scribblenautical
-scribblenautilogic
-scribblenautilogical
-scribblenautophilic
-scribblenautophobic
-scribblephobic
 scribbophobic
 scribophobic
 scrummy
@@ -8603,15 +8587,6 @@ vermivorous
 vernal
 versicolor
 vertical
-veryblue
-veryflying
-verymad
-veryveryblue
-veryveryflying
-veryverymad
-veryveryveryblue
-veryveryveryflying
-veryveryverymad
 vestigial
 vexatious
 vibrant
