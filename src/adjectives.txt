@@ -315,7 +315,6 @@ anthropomorphic
 anthropophobic
 antiallergenic
 anticapitalist
-anticapitalist
 anticlimactic
 antidemocratic
 antidemocratical
@@ -746,7 +745,6 @@ biotechnological
 biotite
 bipartisan
 birdbrained
-birdbrained
 birdlike
 birthstone
 bitesized
@@ -871,7 +869,6 @@ bribeable
 brick
 brickish
 brickred
-brickred
 bricky
 bridal
 brief
@@ -894,7 +891,6 @@ brocatello
 broke
 broken
 brokendown
-brokenhearted
 brokenhearted
 bronchial
 brontophobic
@@ -946,7 +942,6 @@ byzantium
 cabbagy
 cacophonophilic
 cacotopic
-cactuslike
 cactuslike
 cadaveric
 cadaverous
@@ -1042,7 +1037,6 @@ carryable
 carsick
 cashmere
 castiron
-castoff
 castoff
 caststeel
 cataclysmic
@@ -1966,7 +1960,6 @@ damask
 damp
 dampish
 dampproof
-dampproof
 dandriffy
 dandruffy
 dangerous
@@ -2184,7 +2177,6 @@ desecrated
 deserted
 desertic
 deserticolous
-desertlike
 desertlike
 deserved
 deserving
@@ -3096,7 +3088,6 @@ fatherly
 fathomable
 fatigable
 fatlike
-fatlike
 fattening
 fattish
 fatty
@@ -3188,12 +3179,9 @@ finical
 finicky
 finnicky
 firebreathing
-firebreathing
-firebreathing
 fireless
 fireproof
 fireresistant
-fireretardant
 fireretardant
 firm
 first
@@ -3327,9 +3315,7 @@ fortuneless
 forworn
 fossilisable
 fossillike
-fossillike
 foulard
-foulmouthed
 foulmouthed
 foxlike
 foxy
@@ -3382,8 +3368,6 @@ frolicky
 frolicsome
 front
 frostbitten
-frostbreathing
-frostbreathing
 frostbreathing
 frosted
 frosty
@@ -3519,7 +3503,6 @@ giddied
 giddy
 giddying
 gifted
-giftwrapped
 giftwrapped
 gigantean
 gigantesque
@@ -3748,7 +3731,6 @@ halophilic
 handcrafted
 handdrawn
 handheld
-handheld
 handmade
 handsewn
 handsome
@@ -3798,7 +3780,6 @@ heartbroken
 heartfelt
 heartfree
 heartless
-heartrending
 heartrending
 heartsick
 heartsickening
@@ -3914,7 +3895,6 @@ homegrown
 homeless
 homely
 homemade
-homemade
 homeopathic
 homesick
 homespun
@@ -3954,7 +3934,6 @@ horticultural
 hospitable
 hostile
 hot
-hotheaded
 hotheaded
 hottempered
 houndish
@@ -4085,7 +4064,6 @@ illogical
 illsorted
 illstarred
 illsuited
-illtempered
 illtempered
 illtimed
 illuminating
@@ -5088,7 +5066,6 @@ navy
 near
 nearby
 nearsighted
-nearsighted
 neat
 nebulous
 necessary
@@ -5774,7 +5751,6 @@ phantasmal
 phantastic
 phantastical
 phantomlike
-phantomlike
 pharmaceutical
 pharmacologic
 pharmacological
@@ -5931,7 +5907,6 @@ postpericardial
 postprophetic
 postscholastic
 postwar
-potbellied
 potbellied
 potent
 potential
@@ -6947,8 +6922,6 @@ sheepskin
 sheer
 shelled
 shellshocked
-shellshocked
-shellshocked
 shelly
 shiftable
 shifty
@@ -6963,7 +6936,6 @@ shortcircuited
 shorted
 shorthanded
 shortish
-shortsighted
 shortsighted
 shorttempered
 shortterm
@@ -7024,7 +6996,6 @@ sizy
 skaldic
 skarn
 skeletal
-skeletonlike
 skeletonlike
 skeptical
 sketched
@@ -7114,7 +7085,6 @@ snowy
 snug
 snugging
 soaked
-soaplike
 soaplike
 soapstone
 soapsudsy
@@ -7859,7 +7829,6 @@ tratasyllabical
 traumatic
 traumatized
 traumatophobic
-travelsick
 travelsick
 treacherous
 treasonable
@@ -8819,7 +8788,6 @@ western
 westernmost
 wet
 wetproof
-wetproof
 wettish
 whacky
 wheat
@@ -8919,7 +8887,6 @@ worthwhile
 worthy
 wounded
 wraithlike
-wraithlike
 wrapped
 wrathful
 wretched
@@ -8953,7 +8920,6 @@ zany
 zanyish
 zealous
 zebraic
-zebraprint
 zebraprint
 zebrine
 zincic
